@@ -1,7 +1,3 @@
-# README.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## プロジェクト概要
 
 このプロジェクトは@grafana/scenesライブラリを使用したGrafanaシーンアプリケーションのサンプルです。OpenAI Codexのサンプルコード（sample001）として作成されており、Grafanaの公式ドキュメントの「Hello World」シーンを実装しています。
